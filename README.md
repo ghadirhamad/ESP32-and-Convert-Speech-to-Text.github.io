@@ -1,4 +1,3 @@
-# ESP32-and-Convert-Speech-to-Text
 Welcome to the ESP32-and-Convert-Speech-to-Text 
 # ESP32 
 in this file I wrote algorithm to startup ESP32
