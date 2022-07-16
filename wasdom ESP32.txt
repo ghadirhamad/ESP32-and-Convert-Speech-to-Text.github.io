@@ -1,0 +1,9 @@
+How to startup wasdom ESP32?
+1. Download Arduino IDE
+2. go to preferences> in adiitional board manger URLs paste this link:
+       https://dl.espressif.com/dl/package_esp32_index.json
+3. go to tools> board:"Arduino /Genuino uno"> board manger> search for ESP32 and install it
+4. check if your ESP32 is defined go to tools> ports then choose the approriate port
+5. plug ESP32 in the USB cable
+6. start programming and save it
+7. upload the code to ESP32
